@@ -25,7 +25,7 @@ h5{
 .menu{
     font-family: Century;
     background-color: rgb(11, 71, 111);
-    color: navajowhite;
+    color: rgb(172, 221, 240);
     padding: 5px;
     justify-content: center;
     display: flex;
@@ -35,7 +35,7 @@ h5{
 
 .menu a{
     color: rgb(11, 71, 111);
-    background: rgb(223, 245, 253);
+    background: rgb(197, 231, 244);
     text-decoration: none;
     padding: 8px 15px;
     border-radius: 6px;
@@ -43,36 +43,36 @@ h5{
 }
 
 .menu a:hover{
-    background: rebeccapurple;
-    color: bisque;
-    border-radius: 10px; 
+    background: rgb(11, 71, 111);
+    color: rgb(172, 221, 240);
+    border-radius: 10px;
 }
 
-.img{
+.img {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 10px;
-    background-image: url(img/linguaportuguesa.jpeg);
+    background-image: url(img/livros.jpg);
 }
 
 .body{
     font-family: Century;
-    background-color: honeydew;
-    color: turquoise;
+    background-color: rgb(11, 71, 111);
+    color: rgb(172, 221, 240);
     padding: 20px;
 }
 
 .conteudo{
+    text-align: center;
     font-family: Century;
-    background-color: green;
-    color: darkcyan;
-    padding: 20px;
+    background-color: rgb(11, 71, 111);
+    color: rgb(172, 221, 240);
+    padding: 5px;
 }
 
 .rodape{
     text-align: center;
-    background-color: floralwhite;
-    color: royalblue;
+    background-color: rgb(197, 231, 244);
+    color: rgb(11, 71, 111);
     padding: 5px;
 }
